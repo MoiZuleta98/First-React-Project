@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/first-react-project/static/css/main.31bffa45.chunk.css",
+    "main.js": "/first-react-project/static/js/main.d721d662.chunk.js",
+    "main.js.map": "/first-react-project/static/js/main.d721d662.chunk.js.map",
+    "runtime-main.js": "/first-react-project/static/js/runtime-main.fbae56c3.js",
+    "runtime-main.js.map": "/first-react-project/static/js/runtime-main.fbae56c3.js.map",
+    "static/js/2.1284578a.chunk.js": "/first-react-project/static/js/2.1284578a.chunk.js",
+    "static/js/2.1284578a.chunk.js.map": "/first-react-project/static/js/2.1284578a.chunk.js.map",
+    "static/js/3.c6723a07.chunk.js": "/first-react-project/static/js/3.c6723a07.chunk.js",
+    "static/js/3.c6723a07.chunk.js.map": "/first-react-project/static/js/3.c6723a07.chunk.js.map",
+    "index.html": "/first-react-project/index.html",
+    "static/css/main.31bffa45.chunk.css.map": "/first-react-project/static/css/main.31bffa45.chunk.css.map",
+    "static/js/2.1284578a.chunk.js.LICENSE.txt": "/first-react-project/static/js/2.1284578a.chunk.js.LICENSE.txt",
+    "static/media/logo-DH.a7d07b2c.png": "/first-react-project/static/media/logo-DH.a7d07b2c.png",
+    "static/media/reloj1.8c9a5934.jpg": "/first-react-project/static/media/reloj1.8c9a5934.jpg",
+    "static/media/reloj2.140e4961.jpg": "/first-react-project/static/media/reloj2.140e4961.jpg",
+    "static/media/reloj3.e2d8221a.jpg": "/first-react-project/static/media/reloj3.e2d8221a.jpg",
+    "static/media/reloj4.95b7cd7d.jpg": "/first-react-project/static/media/reloj4.95b7cd7d.jpg",
+    "static/media/master.css": "/first-react-project/static/media/reloj5.788d5bdd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbae56c3.js",
+    "static/js/2.1284578a.chunk.js",
+    "static/css/main.31bffa45.chunk.css",
+    "static/js/main.d721d662.chunk.js"
+  ]
+}
